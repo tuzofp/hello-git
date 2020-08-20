@@ -43,5 +43,49 @@ Underline 2
 
 ![Logo github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
+# Code Snippets
 
+```JSON
+Código en Json
+
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+
+# Tablas
+
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Marco | Burgos | Acta |
+| Tomas | Tomsno | Licencia |
+
+# Citas
+
+Esto es un texto referente a una cita que pondremos debajo:
+>Esto es una cita.
+
+# Lineas
+
+División 2
+---
+División 1
+***
+
+# Salto de lineas
+
+Esto es nuestro primer parrafo. 
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro tercer parrafo.
 
